@@ -5,6 +5,7 @@ This repository contains a Colab notebook analyzing Department of Defense (DoD) 
 
 ## Data Source
 - Data extracted from [G2Xchange DOGE Tracker](https://app.g2xchange.com/doge-tracker) as of February 21, 2025
+- Saved to csv
 - Preprocessed and cleaned for analysis
 
 ## Analysis Components
